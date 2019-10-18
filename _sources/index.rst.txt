@@ -1,0 +1,89 @@
+.. VMI Bootcamp III documentation master file, created by
+   sphinx-quickstart.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to the Third VMI Bootcamp!
+===========================================
+
+
+.. figure:: ./images/vmi_logo.jpeg
+   :scale: 70 %
+   :alt: vmi_logo
+
+
+**November 9th, 2018**
+
+.. toctree::
+   :maxdepth: 2
+
+   ./rst/location
+
+
+
+**An introduction to microbiota community analysis**
+
+   - Organized by the `Vanderbilt Microbiome Initiative (VMI) <https://my.vanderbilt.edu/microbiome/>`_ and funded by `Vanderbilt University Trans-Institutional Programs (TIPs) <https://www.vanderbilt.edu/strategicplan/trans-institutional-programs/tipshome.php>`_
+   - Founded By - Members of the Dept. Biological Sciences, Peabody college, School of Engineering, and the Medical Center
+   - Research – 160 Vanderbilt scholars across 5 schools committed to fundamental and translational microbiome research
+   - Education and Training – Campus-wide programs to deploy state-of-the-art tools to propel microbiome research
+   - Ongoing Clinical Trial - Multi'omic, dietary intervention, temporal sampling, multi-ethnic
+
+**Goals:**
+
+   1. Understand the importance of good experimental design
+
+   2. Explore the critical steps in a typical microbiome amplicon sequencing analysis
+
+   3. Utilize the QIIME2 pipeline to process microbiome datasets
+
+Microbiome Introduction
+----------------------------------------------------------------------------------------------------------------------
+.. toctree::
+   :maxdepth: 2
+
+   ./rst/1_microbiome_introduction
+
+Experimental Design and Sample Preparation
+----------------------------------------------------------------------------------------------------------------------
+.. toctree::
+   :maxdepth: 2
+
+   ./rst/2_experimental_design
+
+Turning Sequences into Community Composition
+----------------------------------------------------------------------------------------------------------------------
+.. toctree::
+   :maxdepth: 2
+
+   ./rst/3_sequences_to_composition
+
+Concepts of Community Analysis
+----------------------------------------------------------------------------------------------------------------------
+.. toctree::
+   :maxdepth: 2
+
+   ./rst/4_concepts_of_community_analysis
+
+Analyzing Microbial Communities and Hypothesis Testing
+----------------------------------------------------------------------------------------------------------------------
+.. toctree::
+   :maxdepth: 2
+
+   ./rst/5_analysis_and_hypothesis_testing
+
+
+Command Line Tutorial
+----------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   ./rst/command_line_introduction
+
+Other Resources
+===============
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
